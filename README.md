@@ -143,7 +143,7 @@ Here, when we want to see all entries of a newsletter, we go through
 results to just the one newsletter.
 
 Similarly, when we create a new entry, it has to be associated with a
-newsletters, so it makes sense to have those routes also go through the
+newsletter, so it makes sense to have those routes also go through the
 parent `/newsletters/:id` route.
 
 However, when it gets down to acting on a single entry, we can just go
@@ -177,3 +177,5 @@ Below are a few keys to remember when thinking about REST:
 ## Resources
 
 - [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-rest'>REST</a> on Learn.co and start learning to code for free.</p>

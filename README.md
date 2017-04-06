@@ -43,7 +43,7 @@ newsletter. Requesting this page is requesting to `edit resource`.
 
 6. Finally, you want to browse all the newsletters to see what else you
    could subscribe to. Asking for the list of all newsletters is asking
-for the `index` of the resoruce.
+for the `index` of the resource.
 
 ## RESTful Conventions
 
@@ -177,3 +177,5 @@ Below are a few keys to remember when thinking about REST:
 ## Resources
 
 - [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-rest'>REST</a> on Learn.co and start learning to code for free.</p>

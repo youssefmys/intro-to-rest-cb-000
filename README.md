@@ -43,7 +43,7 @@ newsletter. Requesting this page is requesting to `edit resource`.
 
 6. Finally, you want to browse all the newsletters to see what else you
    could subscribe to. Asking for the list of all newsletters is asking
-for the `index` of the resoruce.
+for the `index` of the resource.
 
 ## RESTful Conventions
 
@@ -110,7 +110,7 @@ to create a new entry in the collection of all newsletters would be
 `POST /newsletters`.
 
 Similarly, we have three routes that are all pointing to
-`/newsletters/:id`. This is why we use differet verbs to do different
+`/newsletters/:id`. This is why we use different verbs to do different
 actions. Because showing, updating, and deleting a newsletter are all
 actions on the same resource, it makes sense that they'd have the same
 path, `/newsletters/:id`, and use the different verbs to represent the
@@ -177,3 +177,5 @@ Below are a few keys to remember when thinking about REST:
 ## Resources
 
 - [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-rest'>REST</a> on Learn.co and start learning to code for free.</p>

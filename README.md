@@ -143,7 +143,7 @@ Here, when we want to see all entries of a newsletter, we go through
 results to just the one newsletter.
 
 Similarly, when we create a new entry, it has to be associated with a
-newsletters, so it makes sense to have those routes also go through the
+newsletter, so it makes sense to have those routes also go through the
 parent `/newsletters/:id` route.
 
 However, when it gets down to acting on a single entry, we can just go

@@ -110,7 +110,7 @@ to create a new entry in the collection of all newsletters would be
 `POST /newsletters`.
 
 Similarly, we have three routes that are all pointing to
-`/newsletters/:id`. This is why we use differet verbs to do different
+`/newsletters/:id`. This is why we use different verbs to do different
 actions. Because showing, updating, and deleting a newsletter are all
 actions on the same resource, it makes sense that they'd have the same
 path, `/newsletters/:id`, and use the different verbs to represent the
